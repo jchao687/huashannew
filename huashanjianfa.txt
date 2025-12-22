@@ -1,5 +1,7 @@
 nihao
 lhclhclhc*10
+<<<<<<< HEAD
 dgjj
 
 edit by lhc
+dgjj   edit by ybq
